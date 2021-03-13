@@ -1,0 +1,1 @@
+tellraw @a {"text": "The data pack has been loaded! Cheers from CardistCalledRaptor!", "color": "aqua", "bold": true}
